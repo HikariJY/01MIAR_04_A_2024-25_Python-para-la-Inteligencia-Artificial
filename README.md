@@ -8,4 +8,7 @@ Autor: **Josseph Yaakob Catagua Cobos**
 ### **Anotaciones/Guia personal**
 - [Markdown_01](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Anotaciones_Guia_Anaconda_Jupyter/Markdown_01.ipynb)
 ### **Ejercicios Autoevaluables**
-NA
+- Ejercicios_Archivo00
+- Ejercicios_Archivo01
+- [Ejercicios_Archivo02](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Ejercicios_Autoevaluados/Ejercicio_Archivo04.ipynb)
+- [Ejercicios_Archivo03](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Ejercicios_Autoevaluados/Ejercicio_Archivo03.ipynb)
