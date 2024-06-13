@@ -9,12 +9,16 @@ Autor: **Josseph Yaakob Catagua Cobos**
 - [Markdown_01](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Anotaciones/Markdown_01.ipynb)
 - [Markdown_02](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Anotaciones/Markdown_02.ipynb)
 ### **Ejercicios Autoevaluables**
-- Ejercicios del [Archivo00](https://github.com/vany-viu/01MIAR_ABR_24/blob/main/01MIAR_00_Intro.ipynb)
-- Ejercicios del [Archivo01](https://github.com/vany-viu/01MIAR_ABR_24/blob/main/01MIAR_01_Python101.ipynb)
 - [Ejercicios](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Ejercicios_Autoevaluados/Ejercicio_Archivo02.ipynb) del [Archivo 02](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Actividades%20Autoevaluados/Ejercicio_Archivo02.ipynb)
 - [Ejercicios](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Ejercicios_Autoevaluados/Ejercicio_Archivo03.ipynb) del [Archivo03](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Actividades%20Autoevaluados/Ejercicio_Archivo03.ipynb)
 - [Ejercicios](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Ejercicios_Autoevaluados/Ejercicio_Archivo03.ipynb) del [Archivo04](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Actividades%20Autoevaluados/Ejercicio_Archivo04.ipynb)
 - [Ejercicios](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Ejercicios_Autoevaluados/Ejercicio_Archivo05.ipynb) del [Archivo05](https://github.com/HikariJY/01MIAR_04_A_2024-25_Python-para-la-Inteligencia-Artificial/blob/main/Actividades%20Autoevaluados/Ejercicio_Archivo05.ipynb)
+- [Ejercicios] del [Archivo08]
+- [Ejercicios] del [Archivo09]
+- [Ejercicios] del [Archivo10]
+- [Ejercicios] del [Archivo11]
+- [Ejercicios] del [Archivo12]
+- [Ejercicios] del [Archivo13]
 - [Examen Demo]
 
 ### **Ejercicios Evaluables**
