@@ -1,7 +1,0 @@
-Video Game
-
-https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-ratings/data
-
-Spotify
-
-https://www.kaggle.com/datasets/sarahjeffreson/featured-spotify-artiststracks-with-metadata/data?select=featured_Spotify_track_info.csv
